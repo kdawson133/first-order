@@ -34,14 +34,5 @@ Edit the `/etc/sddm.conf` file to look like;
 [Theme]
 Current=first-order
 ```
-*** Make sure you have enabled the `sddm.service` with `sudo systemctl enable sddm.service` and then reboot ***
-
-
-
-
-
-
-
-
-
+***Make sure you have enabled the `sddm.service` with `sudo systemctl enable sddm.service` and then reboot.***
 
